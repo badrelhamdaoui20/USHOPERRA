@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ushoperra.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ushoperra.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ushoperra.com/collections/pet-essentials.atom"/>
+  <title>Ushoperra</title>
+  <updated>2022-04-25T20:21:06+00:00</updated>
+  <author>
+    <name>Ushoperra</name>
+  </author>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735186559066</id>
+    <published>2022-04-25T20:21:06+00:00</published>
+    <updated>2022-04-25T20:21:06+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/dog-towel-pet-water-absorption-towel-quickly-comfortably-dries-your-dog"/>
+    <title>Dog Towel, Pet Water Absorption Towel, Quickly &amp; Comfortably Dries Your Dog</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/15943277105f078b176da142a454f779fa565f0554a9149_1567847636_d44141f9dfff6194f3251278e396b439740a1069.jpg?v=1650918076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1" style="color: #000000;" class="testimonial">When your dog gets wet, the inevitable always happens...wet dog smell. Whether they are freshly bathed, coming out of the pool, or caught in the rain, the scent tends to linger. Plus, a wet dog makes messes in your home and vehicle.</span></p>
+<p data-mce-fragment="1"><span style="color: #000000;">So, we've created the Pet Water Absorption Towel to help you out!</span></p>
+<p data-mce-fragment="1"><span style="color: #000000;">✓ Our towel is made from special material that can quickly and easily dry your dog (or cat) in record time. No more smelly odors or messes!</span></p>
+<p><span style="color: #000000;"><span class="desc-headline">✓ Highly Absorbent — </span>Our tightly woven chenille microfiber fabric is soft, cozy, and soaks up 10x more water than other towels</span></p>
+<p><span style="color: #000000;"><span class="desc-headline">✓ Easy To Use — </span>The dual hand design allows you to have a better grip when drying your dog. The ribbing on the towel gentle massages your pup and wicks away water from their body</span></p>
+<p><span style="color: #000000;"><span class="desc-headline">✓ Super Drying — </span>Our towel dries your dog 8x faster than a standard towel! It even beats out a blow dryer!</span></p>
+<p><span style="color: #000000;"><span class="desc-headline">✓ Durable Material — </span>Our towel can withstand a lot of wear &amp; tear. it's safe for the washer and dryer, too!</span></p>
+<p><span style="color: #000000;"><span class="desc-headline">✓ Perfect Size — </span>Small, medium, and large dogs can all use this towel and so can cats</span></p>
+<p><span style="color: #000000;"><strong>Specifications:</strong></span></p>
+<p><span style="color: #000000;"><span class="blue-check">✓</span> Material: Polyester + Cotton</span></p>
+<p><span data-mce-fragment="1" style="color: #000000;">✓ Color: Lake Blue, Gray, Pink, </span><span data-mce-fragment="1" style="color: #000000;">Purple</span><br data-mce-fragment="1"><span data-mce-fragment="1" style="color: #000000;"></span></p>
+<p><span style="color: #000000;">✓ Size: S, M, L</span><br></p>
+<p><span data-mce-fragment="1" style="color: #000000;">✓ Weight: 250g-450g</span></p>
+<p><span style="color: #000000;"><strong>Package Included:</strong></span><br></p>
+<p><span style="color: #000000;">1 X Pet Water Absorption Towel</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Lake Blue / S</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Lake Blue / M</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Lake Blue / L</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Purple / S</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Purple / M</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735186559066</id>
+      <title>Purple / L</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735185641562</id>
+    <published>2022-04-25T20:20:04+00:00</published>
+    <updated>2022-04-25T20:20:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/portable-pet-water-bottle-for-outdoor-walking-hiking-travel"/>
+    <title>Portable Dog Water Bottle, For Outdoor Walking, Hiking, Travel</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/variantimage1Portable-Pet-Dog-Water-Bottle-For-Small-Large-Dogs-Travel-Puppy-Cat-Drinking-Bowl-Outdoor-Pet.jpg?v=1650918016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #000000;"><strong>✓ No Water Waste:</strong> Unused water can go back into the container easily by pressing the water key.</span></p>
+<p><span style="color: #000000;"><strong>✓ Leak Proof:</strong> Silica gel seal ring plus lock key design, make sure the pet water bottle doesn't leak at all. No worry to get everywhere wet or waste water any more.</span></p>
+<p><span style="color: #000000;"><strong>✓ Durable &amp; Safe:</strong> The portable dog and cat water bottle made of high quality food grade material, make sure your pet completely safe when they use our dog water dispenser bottle.</span></p>
+<p><span style="color: #000000;"><strong>✓ Portable Pets Water Bottle:</strong> Reasonable 550 ml capacity, enough for outdoor walking, hiking and traveling. Compact size make sure you can put it in your bag easily, or take it on your hand by the attached strap conveniently.</span></p>
+<p><span style="color: #000000;"><strong>✓ Easy To Use:</strong> One hand operation, press water key to fill water, release to stop water, very easy to feed your pet with this water bottle.</span></p>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">
+<span style="color: #000000;"><strong>Your Complete Satisfaction Is Our Top Priority</strong></span><br>
+</div>
+<div style="text-align: center;"><span style="color: #000000;"><strong></strong></span></div>
+<div style="text-align: center;"><span style="color: #000000;"><strong></strong></span></div>
+<p> </p>
+<p><span style="color: #000000;"><strong>Package Included:</strong></span><br></p>
+<p><span style="color: #000000;">✓ Portable Pet Water Bottle</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:tag>ss</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735185641562</id>
+      <title>550 ml / Turquoise</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735185641562</id>
+      <title>550 ml / Pink</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735185641562</id>
+      <title>550 ml / White</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735185641562</id>
+      <title>550 ml / Royal Blue</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735185641562</id>
+      <title>550 ml / Black</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735185412186</id>
+    <published>2022-04-25T20:19:59+00:00</published>
+    <updated>2022-04-25T20:19:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/comfortable-pet-hair-removal-comb-pets-grooming-tools"/>
+    <title>Comfortable Pet Hair Removal Comb - Pets Grooming Tools</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/variantimage2Comfortable-Pet-Hair-Removal-Comb-Cats-Dog-Grooming-Comb-Puppy-Kitten-Hair-Shedding-Trimmer-Combs-Pets.jpg?v=1650918003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>✓ Best pet grooming tool!</strong> Leave behind the grooming headache, removing up to 95% of dead hair and tangles from your cat and dog easily IN JUST 10 MINUTES! Keep your furniture and floors free of pet hair while SAVING MONEY and TIME on expensive visits to the vet for pet grooming services!</p>
+<p><strong>✓ A durable shedding tool!</strong> This dog and cat comb is MADE TO LAST through long years of effortless pet grooming! With the 100mm STAINLESS STEEL BLADE protected by a cover for your safety and the blade longevity and the STURDY, EASY-GRIP HANDLE, it promise top precision. It is a long-lasting deshedding tool, a MUST-HAVE pet hair remover!</p>
+<p><strong>✓ Healthy, shiny pet coat!</strong> Rid your four-legged friend of undercoat and loose hair effortlessly, and keep at bay allergies by frequently brushing them! Have your pet thankful for the professional services of a dog/cat deshedding tool and establish strong bonds between you and your four-legged friend!</p>
+<p><strong>✓ Thoughtful gift to all pet owners!</strong> Easy to use and causing not a speck of discomfort, this grooming brush will put a wide smile on the face of the lucky pet owner! It will relieve their dog or cat from shedding, trimming pet grooming time to just 10 minutes. Offer it on all occasions to save them time, money and effort and show off your excellent taste!</p>
+<div style="text-align: center;">
+<p><strong>Your Complete Satisfaction Is Our Top Priority</strong></p>
+<p style="text-align: left;"><strong>Package Included:</strong></p>
+</div>
+<p>✓ Pet Hair Removal Comb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Selling</s:tag>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735185412186</id>
+      <title>Bleu</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735185412186</id>
+      <title>Pink</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735184822362</id>
+    <published>2022-04-25T20:19:21+00:00</published>
+    <updated>2022-04-25T20:19:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/transparent-cat-water-fountain-with-faucet-dispenser-petsafe-drinkwell"/>
+    <title>Transparent Cat Water Fountain With Faucet, Dispenser, PetSafe DrinkWell</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/variantimage6Intelligent-Cat-Water-Fountain-With-Faucet-Dog-Water-Dispenser-Transparent-Drinker-Pet-Drinking-Filters-Feeder-Motion.jpg?v=1650917968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #000000;"><strong>Intelligent Cat Water Fountain With Faucet, <span data-mce-fragment="1">Filters</span> and Motion Sensor</strong></span></p>
+<h5 class="vc_custom_heading vc_custom_1605615348472" style="text-align: center;"><span style="color: #000000;">Encourage your cat to drink more</span></h5>
+<div class="wpb_text_column wpb_content_element  vc_custom_1605866425741">
+<div class="wpb_wrapper">
+<p><span style="color: #000000;">Drinking plenty is important for cats as it helps prevent urinary tract disease – a common health issue for cats</span></p>
+<p><strong><span style="color: #000000;">Features:</span></strong></p>
+<ul>
+<li><span style="color: #000000;"><span>Automatic Pet Water Fountain</span></span></li>
+<li><span style="color: #000000;"><span>Fully transparent design.</span></span></li>
+<li>2L large capacity is great for dogs, cats, multiple pet households.<br>
+</li>
+<li>2 Water flow modes, providing clean running water, make your pets happier and healthier.<br>
+</li>
+</ul>
+<p><span style="color: #000000;"><span style="color: #000000;"><strong>Specifications:</strong><br></span></span></p>
+<ul>
+<li><span style="color: #000000;"><span style="color: #000000;"><span>Material: Food-grade PC</span></span></span></li>
+<li><span style="color: #000000;"><span style="color: #000000;"><span>Item Color: Fully Transparent</span></span></span></li>
+<li><span style="color: #000000;"><span style="color: #000000;"><span>Maximum Capacity: 2 liters (67 oz)</span></span></span></li>
+<li><span style="color: #000000;"><span style="color: #000000;"><span>Item Size: approx. 16.5x16.5x15.5 / 6.5x6.5x6.1in (L*W*H)</span></span></span></li>
+</ul>
+<p><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span>Tips: Clean the pump regularly to extend life</span></span></span></span></span></span></span></span></span></p>
+<p><strong><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;">Included:</span></span></span></span></span></span></span></span></span></span></span></strong></p>
+<p><span>Pet Fountain * 1</span><br><span>Replacement Filter * 1</span><br><span>Faucet * 1</span><br><span>Silent Pump * 1</span><br><span>Adapter * 1</span><br><span>Inductor * 1</span><br><span>User's Manual * 1</span><br><span>Package Box * 1</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735184822362</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181840474</id>
+    <published>2022-04-25T20:16:43+00:00</published>
+    <updated>2022-04-25T20:16:43+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/geometric-pet-dog-ball"/>
+    <title>Geometric Pet Dog Ball</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/15864455565e8f306524933b80a4200a68e90b7bc5f7df8_1585794587_389bb79b3af9cd97cf6330e487f912aea177ae0e.jpg?v=1650917807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Boosts Your Dogs' Iq As They Work To Remove Treats Of Different Shapes And Sizes</span></p>
+<p data-mce-fragment="1">Keep your dog engaged, entertained and mentally stimulated with the intelligent design of this geometric ball.</p>
+<p data-mce-fragment="1">Made of durable yet lightweight rubber, this ball is stretchy, bouncy and hard to break – making it the ideal toy for catching, chasing, tugging and more.</p>
+<p data-mce-fragment="1">The rubber material is natural and non-toxic so it’s safe for both you and your furry friend to play with.</p>
+<p data-mce-fragment="1">The open design of this rubber ball means you can use it on its own, or stuffed with your dog’s favorite treats and toys for an extra challenge at playtime.</p>
+<p data-mce-fragment="1">Help boost your pet’s IQ, develop problem-solving skills, and curb negative bored behaviour by letting them work to retrieve their reward from within the ball.</p>
+<p data-mce-fragment="1">The hollow shape also means your pet can easily breathe while carrying this toy, and the seamless design helps keep it durable.</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/15864455565e8f3f8d85b7fadbf4a5db6394d1d281c2c6b_1585794570_ae017b6b3b2c6ac2e33d5c40cc3f448b7e685900.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/15864455565e8f3f8d85b7fadbf4a5db6394d1d281c2c6b_1585794570_ae017b6b3b2c6ac2e33d5c40cc3f448b7e685900.jpg">Develop Your Dog's Problem Solving Skills And Increase Mental Ability</p>
+<div class="desc-center" data-mce-fragment="1">
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Designed To Mentally Stimulate:</span><span data-mce-fragment="1"> </span>If you have a dog that gets bored easily, needs to be mentally stimulated, should work on his confidence and IQ, or enjoys problem solving, this ball is a great tool. Its stuffable design means it can be used with treats and other toys of any size to upgrade playtime with a fun challenge.</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Lightweight, Hollow Design:</span><span data-mce-fragment="1"> </span>The open design of the toy means your dog can breathe easily while carrying it. It’s flexible, which makes it perfect for bouncing, throwing, tugging and more.</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Natural And Non-Toxic:</span><span data-mce-fragment="1"> </span>This dog toy is made of natural rubber that is non-toxic so it’s safe for both you and your pet to play with. The rubber is durable while remaining lightweight and stretchy, making for a fun and effortless playtime.</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Benefits Of Play:</span><span data-mce-fragment="1"> </span>Playing with your pet dog on a regular basis not only helps build his confidence and physical skills, but builds the relationship between dog and human. Whether this ball becomes a training tool, a toy to use together, or a toy to keep him busy on his own, it will be the perfect addition to a fun and positive day.</p>
+<p data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Stuffable with treats and toys of any size<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Hollow design allows dog to breathe while holding<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Lightweight and stretchy construction<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Natural, non-toxic rubber material<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Seamless for durability<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Great for any type of play</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Specifications:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Material: Rubber<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Size: 14 cm Diameter</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Included:</span><br data-mce-fragment="1">— 1 X Geometric Pet Dog Ball</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>kk</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181840474</id>
+      <title>PURPLE</title>
+      <s:price currency="USD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181840474</id>
+      <title>GREEN</title>
+      <s:price currency="USD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181840474</id>
+      <title>RED</title>
+      <s:price currency="USD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181840474</id>
+      <title>BLUE</title>
+      <s:price currency="USD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181709402</id>
+    <published>2022-04-25T20:16:37+00:00</published>
+    <updated>2022-04-25T20:16:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/rechargeable-pet-nail-grinder"/>
+    <title>Rechargeable Pet Nail Grinder</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/16043224895fa001bb3d8a34f6f454e81f3e2b7bbb32536_1603935756_5dfe8719f9b1abe370e5f4a3997039efb56a95b1.jpg?v=1650917802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">The Rechargeable Pet Nail Grinder easily snips overgrown nails and keeps them healthy. No more scratches to your legs or furniture!</span></p>
+<p data-mce-fragment="1">This amazing device is perfect for smoothing away calluses and revealing baby soft feet.</p>
+<p data-mce-fragment="1">Taking your dog to the vet or groomer for a simple nail trim can get expensive! That's why we love the Rechargeable Pet Nail Grinder. This tool safely allows you to give your dog a nail trim from home, saving you tons of money and stress on your pup.</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/16043224895fa008bc91c1755464fb793e956e41e98b83d_1603935751_6bc32aae8bdff79db471053cc8535252ac31ebdd.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/16043224895fa008bc91c1755464fb793e956e41e98b83d_1603935751_6bc32aae8bdff79db471053cc8535252ac31ebdd.jpg"></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Lightweight &amp; Easy to Use</span><span data-mce-fragment="1"> </span>- The perfect solution for all dog nails! Safe to us eon all breeds and even cats. .</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Quiet Design</span><span data-mce-fragment="1"> </span>- Motor is very quiet so it won't frighten your pet making nail-trim time an enjoyable experience for both of you. .</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Safe &amp; Effective</span><span data-mce-fragment="1"> </span>- To protect your pet`s nail and paw, this high-speed nail grinder has a protective cap on top to keep you from accidentally hitting the quick. .</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Specifications:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Color: White + black<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>USB Adapter Input: AC100V-240V 50/60Hz<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>USB Adapter Output: DC5V 1000mA<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Charging Time：about 2 hours<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Cordless Using Time: about 3 hours</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Included:</span><br data-mce-fragment="1">— 1 X Rechargeable Pet Nail Grinder<br data-mce-fragment="1">— 1 X USB Charging Cord<br data-mce-fragment="1">— 1 X User Manual<br data-mce-fragment="1">— 1 X Replacement Grinding Head<br data-mce-fragment="1">— 1 X Retail Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181709402</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181611098</id>
+    <published>2022-04-25T20:16:35+00:00</published>
+    <updated>2022-04-25T20:16:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/elastic-hands-free-dog-leash-set"/>
+    <title>Elastic Hands-Free Dog Leash Set</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/1611301524600a81611198948_3b6645f0f5cbcfe90a5dfc693cc9abdfa018cc95.jpg?v=1650917796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">It can be hard to go on a run with your dog in tow when you have to use your hands to grasp their leash.</span></p>
+<p data-mce-fragment="1">We've created a solution to that problem! The Elastic Hands-Free Dog Leash Set is a hands-free option that allows you to run or walk with your dog and not have your hands tied up!</p>
+<p data-mce-fragment="1">The leash fits around your waste using an elastic and adjustable belt.</p>
+<p data-mce-fragment="1">Right now, the Elastic Hands-Free Dog Leash Set is on SALE!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/uploads/1611301524600a81611198940_b236911c15a0a49728f3edbbeb21c0172ec92c31.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/uploads/1611301524600a81611198940_b236911c15a0a49728f3edbbeb21c0172ec92c31.jpg"></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Features:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>The leash is flexible, the size of the waist belt can be adjusted, and the zipper bag can hold the keys, mobile phone and other small items.<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span>Hands free dog leash set, allows you to enjoy the companionship of cute pets while running.</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Specifications:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Material: Nylon<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Size: Leash length - 135cm; Waist - 82-106cm</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Included:</span><br data-mce-fragment="1">— 1 X Elastic Hands-Free Dog Leash Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181611098</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181545562</id>
+    <published>2022-04-25T20:16:32+00:00</published>
+    <updated>2022-04-25T20:16:32+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/pet-carrier-backpack-for-cats-and-dogs-front-back-mesh-carrier-bag"/>
+    <title>Pet Carrier Backpack For Cats And Dogs - Front &amp; Back Mesh Carrier Bag</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/15805924745e35e1570151763_5ed5b3b479252e832a3178b3e3d941caca1b1d3a.jpg?v=1650917794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.98 - 39.98
+            <a href="https://www.ushoperra.com/products/pet-carrier-backpack-for-cats-and-dogs-front-back-mesh-carrier-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Take Your Furry Friend With You Everywhere You Go!</span></p>
+<p data-mce-fragment="1">This Pet Carrier Backpack For Cats And Dogs makes it easy to carry your best friend around everywhere!</p>
+<p data-mce-fragment="1">It gives you the flexibility to take your best friend with you on bike rides, hikes, long walks, and even a quick stop at the market!</p>
+<p data-mce-fragment="1">There are adjustable padded straps that help distribute weight, preventing back and shoulder strain. An extra waist strap with buckle keeps the backpack stable.</p>
+<p data-mce-fragment="1">An interior rope with a clip can be used to connect your pet's collar/harness preventing it from jumping out or hurt itself.</p>
+<p data-mce-fragment="1">The front opening is adjustable with a drawstring to fit your pet perfectly.</p>
+<p data-mce-fragment="1">A three-dimensional ventilation back pad keeps owners’ backs from sweating.</p>
+<p data-mce-fragment="1">Front pockets to store leash, whistle, water, snacks, treats, and other necessities.</p>
+<p><span class="desc-headline">Keep Your Dog Or Cat Safe And Comfortable On Every Adventure</span></p>
+<p><span class="desc-headline">Safe &amp; Comfortable For Your Pet:</span><span> </span>A zippered pet pocket lets you reach into the bag and directly calm your dog or cat without opening the bag. Plus, our bag features an innovative design that gives pets ample room!</p>
+<p><span class="desc-headline">Durable:</span><span> </span>Our pet carrier travel backpack is made with heavy-duty materials. A strong EVA base gives pets stable support, and zippers keep pets from escaping. Ideal for work, traveling, and camping!</p>
+<p><span class="desc-headline">Comfortable For Owners:</span><span> </span>A three-dimensional ventilation back pad keeps owners’ backs from sweating. Ergonomic chest and waist straps help distribute weight, preventing back and shoulder strain!</p>
+<p><span class="desc-headline">Spacious &amp; Convenient:</span><span> </span>This travel bag fits cats and small dog breeds. Built with straps and pockets for storing pet supplies, treats, leashes, toys, as well as your water bottle, wallet, and phone!</p>
+<p><img src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/uploads/15805924745e35e1570151760_4ed4e467649d3308f8db64f621d229e2ecc3d3ac.jpg" alt=""></p>
+<p><span class="blue-check">✓</span><span> </span>Double shoulder strap design<br><span class="blue-check">✓</span><span> </span>Portable and great for travel<br><span class="blue-check">✓</span><span> </span>Front and back carrying bag<br><span class="blue-check">✓</span><span> </span>High-quality and breathable fabric<br><span class="blue-check">✓</span><span> </span>Designed with soft side and mesh panels for ventilation<br><span class="blue-check">✓</span><span> </span>Easy to care - can be wiped or washed with water.<br><span class="blue-check">✓</span><span> </span>Comfortable for both you and your pet<br><span class="blue-check">✓</span><span> </span>Made of breathable mesh and heavy-duty polyester fabric with a bottom hard support plate</p>
+<p> </p>
+<p><span class="desc-headline">Specifications:</span></p>
+<table cellspacing="3" cellpadding="3" border="0" align="left">
+<thead>
+<tr>
+<th scope="col">Size</th>
+<th scope="col">Dimensions</th>
+<th scope="col">Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Small</td>
+<td><strong>30 x 34 x 16cm </strong></td>
+<td>0.4kg</td>
+</tr>
+<tr>
+<td>Medium</td>
+<td>36 x 45 x 21cm</td>
+<td>0.48kg</td>
+</tr>
+</tbody>
+</table>
+<p><span> </span></p>
+<p><span class="desc-headline">Included:</span><br>— 1 X Pet Carrier Backpack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181545562</id>
+      <title>SMALL</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181545562</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">39.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181480026</id>
+    <published>2022-04-25T20:16:28+00:00</published>
+    <updated>2022-04-25T20:16:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/pet-hair-dryer-stand"/>
+    <title>Pet Hair Dryer Stand</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/15852717595e7d51584631625_712231c0d2e76de0d5606e2d1e08fec724312281.jpg?v=1650917791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="testimonial" data-mce-fragment="1">The Pet Hair Dryer Stand is incredibly useful and practical for both professional grooming shops and DIYers.</span></p>
+<p data-mce-fragment="1">You'll find the adjustable stand very easy to customize for the perfect grooming experience!</p>
+<p data-mce-fragment="1">This high-quality Pet Hair Dryer Stand is perfect for grooming any size or breed of dog.</p>
+<p data-mce-fragment="1">Right now, it's on SALE!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/15852717595e7d5ae2bc32db4e64341a0307f8e1c170e5c_1584631633_fdb397aa74158e6d951d5a4725b893b038d0a78a.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/15852717595e7d5ae2bc32db4e64341a0307f8e1c170e5c_1584631633_fdb397aa74158e6d951d5a4725b893b038d0a78a.jpg"></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Features:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Made of high-quality aluminum alloy that is tough and durable<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>All finishes are non-toxic, safe, and eco-friendly<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Holds most sizes of hand dryers and blasting hoses<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Holds pet hand dryers and hoses securely so you can use both hands to groom your pets for faster and better results<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Easily clamps to your grooming table</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Specifications:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Material: ABS + Aluminum alloy<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Color: Black<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Size: 78 x 8 x 5.5cm</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Included:</span><br data-mce-fragment="1">— 1 X Pet Hair Dryer Stand</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181480026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181381722</id>
+    <published>2022-04-25T20:16:21+00:00</published>
+    <updated>2022-04-25T20:16:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/pet-bowl-bottle-keeps-your-furry-friend-hydrated"/>
+    <title>Pet Bowl Bottle - Keeps Your Furry Friend Hydrated</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/02b3de87e0ed46248799e91e3334d92c_large_16150701566044021b3d2d6bc1f4875b0ed24a8359a2925_1557452704_fa8f9de4aedc969fe8d00366a4a10d2bbaab54a1.jpg?v=1650917787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Walking your dog on a hot day?</strong></p>
+<p data-mce-fragment="1">Help keep your furry friend hydrated with this Travel Pet Water Bottle that you can carry everywhere!</p>
+<p data-mce-fragment="1">Just squeeze the bottle to transfer water into the bowl attached on top!</p>
+<p data-mce-fragment="1">Quench their thirst with this super convenient travel sized water bottle!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-9a29913829a85bd23e1a2bd11d61c8b1_da39a3ee5e6b4b0d3255bfef95601890afd80709/15575224725cd5ef04bfa914cf44f799c4d70a7cb082621_1557452692_78a9f8809dbd6d0cfdb2dc9f8d77bcac6c80c81d.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-9a29913829a85bd23e1a2bd11d61c8b1_da39a3ee5e6b4b0d3255bfef95601890afd80709/15575224725cd5ef04bfa914cf44f799c4d70a7cb082621_1557452692_78a9f8809dbd6d0cfdb2dc9f8d77bcac6c80c81d.jpg"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong><br data-mce-fragment="1">✓ Helps your pet stay hydrated at all times<br data-mce-fragment="1">✓ Easy to carry with loop and strap<br data-mce-fragment="1">✓ Portable, anti-spill, easy to use, safe, durable<br data-mce-fragment="1">✓ Great for pets on-the-go, keeps them happy and healthy<br data-mce-fragment="1">✓ Made from Food-Grade ABS Plastic</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specifications:</strong><br data-mce-fragment="1">✓ Material: ABS<br data-mce-fragment="1">✓ Type: Dogs<br data-mce-fragment="1">✓ Applicable Dog Breed: Universal</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Included:</strong><br data-mce-fragment="1">— 1 X Pet Bowl Bottle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:tag>ss</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181381722</id>
+      <title>BLUE</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181381722</id>
+      <title>PINK</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181381722</id>
+      <title>BROWN</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181283418</id>
+    <published>2022-04-25T20:16:15+00:00</published>
+    <updated>2022-04-25T20:16:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/automatic-pet-hair-remover-brush"/>
+    <title>Automatic Pet Hair Remover Brush</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/15894163135ebc960480078e4184bda9cd21d41bc250964_1589335027_278edd3b6b336a31c1902745637e8d74ef75ea55.jpg?v=1650917780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">The Automatic Pet Hair Remover Brush is the perfect brush for all pet owners! It works wonders on dogs and cats.</span></p>
+<p data-mce-fragment="1">The pet brush never pulls or tugs on hair. It leaves your dogs's coat feeling soft, silky, and smooth.</p>
+<p data-mce-fragment="1">Hair is collected on the brush pad and with one push of a button is easily released into the trash!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/15894163135ebc9e0a1c4c0d2894711acaeb1175d37ae75_Hcea09b541dd5495bb69e6c9f7bd648cbL.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/15894163135ebc9e0a1c4c0d2894711acaeb1175d37ae75_Hcea09b541dd5495bb69e6c9f7bd648cbL.jpg"></p>
+<div class="desc-center" data-mce-fragment="1">
+<p><span class="desc-headline">Features:</span><br><span class="blue-check">✓</span><span> </span>Soothing massage<br><span class="blue-check">✓</span><span> </span>Removing the hair like doing the hair spa<br><span class="blue-check">✓</span><span> </span>Comfortable and easy</p>
+<p><span class="desc-headline">Specifications:</span><br><span class="blue-check">✓</span><span> </span>Size: 19.5 x 10.7 x 5.8cm<br><span class="blue-check">✓</span><span> </span>Weight: 160g<br><span class="blue-check">✓</span><span> </span>Material: ABS and TPR</p>
+<p><span class="desc-headline">Included:</span><br>— 1 X Automatic Pet Hair Remover Brush</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181283418</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181185114</id>
+    <published>2022-04-25T20:16:09+00:00</published>
+    <updated>2022-04-25T20:16:09+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/automatic-cat-water-fountain"/>
+    <title>Automatic Cat Water Fountain</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/16091341245fe976a818749dc1f48bb8887db0cdb6238a7_1608659044_683ad87d8280e43011b06c14bdc9c7a7fe35b2d3.jpg?v=1650917774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">The Automatic Cat Water Fountain is the best way to say "I love you" to your kitty!</span></p>
+<p data-mce-fragment="1">Now, your little fur baby will always have fresh water.</p>
+<p data-mce-fragment="1">Say goodbye to hairballs and other debris floating around in the water bowl! This system has filter action!</p>
+<p data-mce-fragment="1">Right now, the Automatic Cat Water Fountain is on sale!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/16091341245fe97944c62b359c14ec9a2066d1d6a09c0b6_1608659031_3c9d7f5a9178779230d449bf220fd694fe48d4fd.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/16091341245fe97944c62b359c14ec9a2066d1d6a09c0b6_1608659031_3c9d7f5a9178779230d449bf220fd694fe48d4fd.jpg"></p>
+<div data-mce-fragment="1">
+<p><span class="desc-headline">Fresh Water -<span> </span></span>Filters out hair, foul odors, and other things that can effect the taste and quality of your cat's water</p>
+<p><span class="desc-headline">Convenient -<span> </span></span>The uniquely designed blue pump DR-DC160 is deployed with a customized suction cup to diminish noise. dishwasher safe!</p>
+<p><span class="desc-headline">High Quality -<span> </span></span>Pet fountain is made of finely polished antibacterial PP plastic and s stainless steel lid. the material is eco-friendly, non-toxic, odorless, and durable</p>
+<p><span class="desc-headline">2.4L Capacity -<span> </span></span>Large water reservoir means you won't need to change the water frequently</p>
+<p><span class="desc-headline">Specifications:</span><br><span class="blue-check">✓</span><span> </span>Material: PP plastic + Stainless Steel<br><span class="blue-check">✓</span><span> </span>Item Color: White and silver<br><span class="blue-check">✓</span><span> </span>Water Capacity: 2.4 liters (80 oz)<br><span class="blue-check">✓</span><span> </span>Input Voltage: 5V,1A<br><span class="blue-check">✓</span><span> </span>Power Consumption: 1.5W<br><span class="blue-check">✓</span><span> </span>Power Source: USB<br><span class="blue-check">✓</span><span> </span>Waterproof: IP68<br><span class="blue-check">✓</span><span> </span>Cable Length: 1.6M/5.2ft<br><span class="blue-check">✓</span><span> </span>Item Size: approx. L18.6cm x W18.6cm x H13.1cm/7.3*7.3*5.1” (L*W*H)<br><span class="blue-check">✓</span><span> </span>Net Weight: 697g/24.6oz</p>
+<p><span class="desc-headline">Included:</span><br>— 1 X Automatic Cat Water Fountain<br>— 2 X Charcoal Filter<br>— 1 X USB Cable<br>— 1 X English User Manual<br>— 1 X Package Box</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>gs</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181185114</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181086810</id>
+    <published>2022-04-25T20:16:07+00:00</published>
+    <updated>2022-04-25T20:16:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/portable-pet-bag"/>
+    <title>Portable Pet Bag</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/1615019472604331614743090_ad52e535f8eebd6312103d0595b6436bbafaaa2d.jpg?v=1650917768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="testimonial" data-mce-fragment="1">When you're tired of having to leave your pup home you can now take them with you on all of your outings!</span></p>
+<p data-mce-fragment="1">The Portable Pet Bag makes it possible. This fantastic bag comes in assorted colors and is perfect for the small dog or cat.</p>
+<p data-mce-fragment="1">It's comfortable, safe, and pets love it! The material is durable and machine washable.</p>
+<p data-mce-fragment="1">Enjoy whisking your pet away to the grocery store, vet, visiting a friend, and more! Right now, the Portable Pet Bag is on SALE!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/uploads/1615019472604331614743083_a405668ec12adc96548d31b62c9f34238ebcee93.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/uploads/1615019472604331614743083_a405668ec12adc96548d31b62c9f34238ebcee93.jpg"></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Features:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>The hard-sided carrier will not only give a safe and comfortable travel but also easy to check<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>This carrier is made of durable and lightweight.<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>You can take your pet to go to everywhere.<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Easy to clean.<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>This cute, soft sided pet travel crate features an ultra-soft pet bed inside to let you take your small dogs and cats with you in stylish comfort.<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Original frame when you carry it within your dogs or cats</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Specifications:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Material: Cloth<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>S: Bottom Length 43 cm. High 26cm<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>M: Bottom Length 47 cm. High 28cm<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>L: Bottom Length 52 cm. High 35cm</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Included:</span><br data-mce-fragment="1">— 1 X Portable Pet Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181086810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735181021274</id>
+    <published>2022-04-25T20:16:05+00:00</published>
+    <updated>2022-04-25T20:16:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/warm-cozy-fleece-bed-for-dogs-and-cats"/>
+    <title>Warm &amp; Cozy Fleece Bed for Dogs and Cats</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/15804973365e3471569804033_6226fae67e75b7381ea3bec8d6d633ee65981e45_1.jpg?v=1650917766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Keep Your Dog Or Cat Warm And Comfy!</span></p>
+<p data-mce-fragment="1">It provides your little friend comfort and warmth in the cold winter. With its innovative design, your furry friend will fall in love with it.</p>
+<p data-mce-fragment="1">This bed is shaped as a cozy den that your pet can climb into and feel safe, warm and secure while they take their nap.</p>
+<p data-mce-fragment="1">Give your furry friend their own private retreat for sleeping during busy times of the day. Both pups and kitties will feel super safe and cozy inside.</p>
+<p><span class="desc-headline">Cozy Covered Dog And Cat Bed Den</span></p>
+<p><span class="desc-headline">Warm Pet Bed -<span> </span></span>Keeps Your Dog Comfy!</p>
+<p data-mce-fragment="1"><span class="blue-check">✓</span><span> Made of plush short floss fabric, filled with PP cotton</span><br><span class="blue-check">✓</span><span> Soft microfiber feels great and comfortable on the pet's paws and body</span><br><span class="blue-check">✓</span><span> Durable construction ensures dog-years of use</span><br><span class="blue-check">✓</span><span> Filled with the perfect amount and density of the high-loft fill</span><br><span class="blue-check">✓</span><span> Machine washable at 30C</span><br><span class="blue-check">✓</span><span> Designed to maximize warmth and comfort for your dog or cat</span></p>
+<p><span class="desc-headline">Sizing:</span></p>
+<table cellspacing="2" cellpadding="2" border="0" align="left">
+<thead>
+<tr>
+<th scope="col">XS</th>
+<th scope="col">Small</th>
+<th scope="col">Medium</th>
+<th scope="col">Large</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>38 x 28cm</td>
+<td>48 x 38cm</td>
+<td>58 x 48cm</td>
+<td>68 x 58cm</td>
+</tr>
+<tr>
+<td>0.17kg</td>
+<td>0.25kg</td>
+<td>0.35kg</td>
+<td>0.45kg</td>
+</tr>
+</tbody>
+</table>
+<p><span class="desc-headline">Specifications:</span><br><span class="blue-check">✓</span><span> </span>Wash Style: Hand Wash<br><span class="blue-check">✓</span><span> </span>Item Type: Beds &amp; Sofas</p>
+<p><span class="desc-headline">Included:</span><br>— 1 X Pet Bed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Pet Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735181021274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

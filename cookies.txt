@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ushoperra.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+.xshoppy.shop	TRUE	/	FALSE	1999999999	__cfruid	17ac9417e0cfceadff94f038677647bcd8203f40-1652515522
+cdn.xshoppy.shop	TRUE	/	FALSE	1999999999	SameSite	None
+www.ushoperra.com	TRUE	/	FALSE	1999999999	localization	US
+ushoperra.com	TRUE	/	FALSE	1999999999	_y	f2a1c675-9bcd-46d9-ad38-802286b53cfe
+ushoperra.com	TRUE	/	FALSE	1999999999	_s	7f4e9a95-5fd2-47be-8b1c-45a80849391f
+ushoperra.com	TRUE	/	FALSE	1999999999	_shopify_y	f2a1c675-9bcd-46d9-ad38-802286b53cfe
+www.ushoperra.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+ushoperra.com	TRUE	/	FALSE	1999999999	_shopify_s	7f4e9a95-5fd2-47be-8b1c-45a80849391f
+www.ushoperra.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

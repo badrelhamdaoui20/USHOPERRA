@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ushoperra.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ushoperra.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ushoperra.com/collections/garden-essentials.atom"/>
+  <title>Ushoperra</title>
+  <updated>2022-04-25T20:17:52+00:00</updated>
+  <author>
+    <name>Ushoperra</name>
+  </author>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735183085658</id>
+    <published>2022-04-25T20:17:52+00:00</published>
+    <updated>2022-04-25T20:17:52+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/lawn-mower-trimmer-head-cuts-grass-faster"/>
+    <title>Lawn Mower Trimmer Head - Cuts Grass Faster!</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/15949789745f1171556842190_275598d2e2cd7bdba97e91ff2d25211529c3bb8f.jpg?v=1650917875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="testimonial" data-mce-fragment="1">When your lawn is looking a little shaggy it's probably time to give it a trim!</span></p>
+<p data-mce-fragment="1">However, not many people get excited about mowing their lawn. For one, it's time-consuming and for two, it's laborious work.</p>
+<p data-mce-fragment="1">The Lawn Mower Trimmer Head changes all of that! It quickly trims overgrown hedges, grass, gardens, and more! You can even till the garden with it! Designed with a unique chain structure that is more flexible compared to traditional nylon cable models, our trimmer is far more durable and powerful.</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/uploads/15949789745f1171556842196_d1e1314d8240d9d6621b02e2dcd871b67e455697.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/uploads/15949789745f1171556842196_d1e1314d8240d9d6621b02e2dcd871b67e455697.jpg"></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Features:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Universal fit id flexible for M10 x 1.25 left-hand thread size<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>The center of the bottom is crafted with strong, alloy material<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Basic structure is very simple to use. Works great for straight shaft gardens and pole trimmer tools<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Made from high quality steel that is extremely hard and sturdy. The chain blade is VERY sharp<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Our trimmer head with chain is a great replacement for your current model. It is made with imported technology with a thickening interface</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Specifications:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Material: Metal<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Size: 13cm x 11.5cm x 7 cm<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Garden Tools Part: Thickening Chain</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Included:</span><br data-mce-fragment="1">— 1 X Chain Trimmer Head</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Garden Essentials</s:tag>
+    <s:tag>ss</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735183085658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735182987354</id>
+    <published>2022-04-25T20:17:45+00:00</published>
+    <updated>2022-04-25T20:17:45+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/ergonomic-garden-kneeler-and-seat"/>
+    <title>Ergonomic Garden Kneeler and Seat</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/2f0fd3b10ccc4116b77a773e1395a122_img_ergonomic_garden_kneeler_seat_2.jpg?v=1650917871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Reduce pain caused by long-time stooping and kneeling</span></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">✿ Happy Knees -<span data-mce-fragment="1"> </span></span>This handy garden kneeler features an elevated kneeling pad that reduces aches from prolonged kneeling, and keeps your knees away from the muddy ground and grass.</p>
+<p data-mce-fragment="1">The Ergonomic Garden Kneeler and Seat features a thick cushion specially designed to remove strain from your knees. It's elevated to keep your favorite jeans away from the jumble of mud and grass.</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">FREE GIFT:<span data-mce-fragment="1"> </span></span>Order the brown or purple version and we will send you Garden Gloves as a FREE gift!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/16f6c873d76049b2bbfbd7faf2882f85_img_ergonomic-garden-kneeler-and-seat.gif" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/16f6c873d76049b2bbfbd7faf2882f85_img_ergonomic-garden-kneeler-and-seat.gif"></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Avoid dirt and grass stains on your clothes</span></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Ergonomic Design:</span><span data-mce-fragment="1"> </span>Features an elevated kneeling pad that reduces fatigue from prolonged kneeling. Plus, it keeps knees off the dirty ground!</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Kneeler &amp; Chair In One:</span><span data-mce-fragment="1"> </span>Flips over to become a garden chair! Can support up to 330 pounds</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Foldable:</span><span data-mce-fragment="1"> </span>The kneeler comes fully assembled and is able to fold up for easy carrying &amp; storage</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Durable:</span><span data-mce-fragment="1"> </span>Made with a steel frame and EVA for added durability yet remains incredibly lightweight</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Built-in Garden Tool Pouches:</span><span data-mce-fragment="1"> </span>Attaches to the chair with Velcro and can hold garden tools, cellphone, and more!</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Specifications:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Open Dimensions: 23.5”(L) x 10”(W) x 19.5”(H)<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Folded Dimensions: 22.5”(L) x 9”(W) x 5”(H)<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Seat Dimensions: 16”(L) x 6.25”(W) x 2.25”(H)<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Pouch Dimensions: 14”(L) x 7.5”(W)<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Weight: 5lbs</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Included:</span><br data-mce-fragment="1">— 1 X Garden Kneeler &amp; Stool<br data-mce-fragment="1">— 1 X Double Pouch Pocket<br data-mce-fragment="1">— 1 X Instruction Manual</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Selling</s:tag>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Garden Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735182987354</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735182889050</id>
+    <published>2022-04-25T20:17:40+00:00</published>
+    <updated>2022-04-25T20:17:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/garden-hose-spray-nozzle"/>
+    <title>Garden Hose Spray Nozzle</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/15882736215eab248d38fc855df4a5d8cfbfd9fe5042116_1588259984_98b5dc190762fa88c7da7c1347c9c5bfa62a8b52.jpg?v=1650917865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="testimonial" data-mce-fragment="1">The Garden Hose Spray Nozzle is the perfect accessory for gardeners, homeowners, and more!</span></p>
+<p data-mce-fragment="1">You'll find the jets of the Garden Hose Spray Nozzle to be powerful enough to clean away dirt and debris from your siding, sidewalks, and more! It can even wash a car</p>
+<p data-mce-fragment="1">Right now, the Garden Hose Spray Nozzle is on sale!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/15882736215eab2316a2bd37d404621847d2f47acd4bfa7_HTB1j9G4dfWG3KVjSZFgq6zTspXa3.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e27b69afa161fdfeac3e758c3673393b_4afad81da6487f5d7761d3f18712eead1cfc55e9/15882736215eab2316a2bd37d404621847d2f47acd4bfa7_HTB1j9G4dfWG3KVjSZFgq6zTspXa3.jpg"></p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Features:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Slip-resistant, ergonomic grip design<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Effortlessly blast away dirt, twigs, leaves, mud, and mildew from sidewalks, terraces, driveways, and more<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Features a variety of watering modes<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Change mist settings by simply twisting the hose nozzle</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Specifications:</span><br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Size: 24 x 12 x 7cm<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Weight: 320g<br data-mce-fragment="1"><span class="blue-check" data-mce-fragment="1">✓</span><span data-mce-fragment="1"> </span>Material: ABS + TFR + Aluminum Alloy.</p>
+<p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Included:</span><br data-mce-fragment="1">— 1 X Multi-function Handheld Water Gun</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Garden Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735182889050</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ushoperra.com/products/6735182790746</id>
+    <published>2022-04-25T20:17:35+00:00</published>
+    <updated>2022-04-25T20:17:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ushoperra.com/products/artificial-lily-solar-garden-stake-lights"/>
+    <title>Artificial Lily Solar Garden Stake Lights</title>
+    <s:type></s:type>
+    <s:vendor>Ushoperra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/4257/7242/products/1616382650605807d710fe6797d49178cc3fa5f0615d3eb_1558661829_f346b552a71583c67146c961f5236f4f4d929f8c.jpg?v=1650917859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ushoperra<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="desc-headline" data-mce-fragment="1">Our illuminated solar lilies are stunning and give your garden or yard a gorgeous glow.</span></p>
+<p data-mce-fragment="1">Our solar lights are powered by the sun.</p>
+<p data-mce-fragment="1">No electricity means no increases on your power bill!</p>
+<p data-mce-fragment="1">Perfect for the environment and your pocketbook!</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.commercehq.com/commercehq-store-e93bc84d5d430e3fadbfcdba30444f32_da39a3ee5e6b4b0d3255bfef95601890afd80709/large_161491004460419295bc7c2e4d1478eba49dbd642a5d7ce_1558661835_b1b939ba3f703b9fc72eedf0eaf93824a0952264.jpg" data-mce-fragment="1" data-mce-src="https://cdn.commercehq.com/commercehq-store-e93bc84d5d430e3fadbfcdba30444f32_da39a3ee5e6b4b0d3255bfef95601890afd80709/large_161491004460419295bc7c2e4d1478eba49dbd642a5d7ce_1558661835_b1b939ba3f703b9fc72eedf0eaf93824a0952264.jpg"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Upgraded Version:</strong><span data-mce-fragment="1"> </span>The solar flower lights outdoor have larger lily flowers,which are made of tame fabric. The water proof glass is IP65, the flower &amp; stem is made of high quality material proven to withstand in bad weather. We also upgraded a wider solar panel which converts sunlight into power faster and more efficient in cloudy weather,and more energy-efficient built-in battery to maximize lighting time.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Color Changing Light:</strong><span data-mce-fragment="1"> </span>Lily shaped stake light with 7 color-changing. Lily solar lights automatically lights up in the dark to illuminate your garden and pathway.Suitable for the Garden, Trees, Flowers,Flowerbed, Fence, Walkway, this garden solar lights Does it all.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Adjustable Stems &amp; Leaves:</strong><span data-mce-fragment="1"> </span>Both stems and leaves are propped up by iron wire which gives ultra flexibility and durability. You can bend the solar flowers stems and leaves into different angel and style,and the lily shaped flower lights will stay in shape even after thousand times of bending.Flowers and leaves will not color fade easily even after being exposed to the sun.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Enjoy The Beauty:</strong><span data-mce-fragment="1"> </span>This beautiful Solar flower lights artificial flower garden stake light is at home outside. Equipped with 600mAh rechargeable battery, this solar stake lights can work about 6-8 hours at night if fully charged during the day.Let it decorate your garden during the day, convert sunlight into electricity, and when night falls, it will automatically light up to illuminate your garden and pathway.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specifications:</strong><br data-mce-fragment="1">✓ Material: Fabric<br data-mce-fragment="1">✓ Style: Solar Flower<br data-mce-fragment="1">✓ Solar Panel: Polycrystal Solar Panel<br data-mce-fragment="1">✓ Shade Material: Fabric</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Included:</strong><br data-mce-fragment="1">— 2 X Solar LED Flower Lights</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Garden Essentials</s:tag>
+    <s:variant>
+      <id>https://www.ushoperra.com/products/6735182790746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
